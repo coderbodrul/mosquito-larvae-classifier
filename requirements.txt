@@ -230,3 +230,14 @@ yarl==1.9.2
 ydata-profiling==4.12.2
 zipp==3.21.0
 zstandard==0.23.0
+streamlit
+torch
+torchvision
+torchaudio
+timm
+ultralytics
+opencv-python-headless
+Pillow
+numpy
+matplotlib
+scikit-learn

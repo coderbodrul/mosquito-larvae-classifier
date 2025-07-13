@@ -1,0 +1,32 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+
+# Environment folders
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS metadata files
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.tmp
+
+# Streamlit specific
+.streamlit/config.toml
+
+# Ignore secrets or environment files if added
+.env
+
+# If you decide to host models externally, uncomment below:
+# *.pth
+# *.pt
